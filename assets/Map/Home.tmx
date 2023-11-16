@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16" infinite="0" nextlayerid="5" nextobjectid="1">
- <tileset firstgid="1" source="../Tiles/Hills.tsx"/>
- <tileset firstgid="37" source="../Tiles/Water.tsx"/>
- <tileset firstgid="41" source="../Tiles/Wooden House.tsx"/>
- <tileset firstgid="76" source="../Tiles/Fences.tsx"/>
- <tileset firstgid="92" source="../Tiles/Dirt.tsx"/>
+ <tileset firstgid="1" source="Hills.tsx"/>
+ <tileset firstgid="37" source="Water.tsx"/>
+ <tileset firstgid="41" source="Wooden House.tsx"/>
+ <tileset firstgid="76" source="Fences.tsx"/>
+ <tileset firstgid="92" source="Dirt.tsx"/>
  <layer id="3" name="Dirt" width="50" height="50">
   <data encoding="csv">
 37,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,40,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,
